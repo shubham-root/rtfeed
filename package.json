@@ -1,0 +1,17 @@
+{
+  "name": "nmmt-simulator-server",
+  "version": "1.0.0",
+  "description": "The server component for Transport Tracker",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "author": "Shubham Mishra",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "asyncawait": "^1.0.7",
+    "bluebird": "^3.5.2",
+    "csv-parse": "^3.0.0",
+    "sqlite3": "^4.0.2"
+  }
+}
+
